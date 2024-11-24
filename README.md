@@ -66,11 +66,4 @@ Here’s how the entire section, including **Project Structure**, **Screenshots*
 
 This project is open source and available under the [MIT License](LICENSE).
 
-Feel free to use, modify, or contribute to improve this project!
 
-### Explanation:
-1. **Code Blocks**: Used triple backticks (```) for the "Project Structure" section to display directory hierarchy as a block.
-2. **Screenshots Table**: Used the pipe (`|`) symbol to create a Markdown table for Desktop and Mobile views.
-3. **License**: Provided the standard Markdown header and text for clarity.
-
-This formatting is clean and works seamlessly for GitHub or any Markdown renderer. Let me know if you need additional sections!

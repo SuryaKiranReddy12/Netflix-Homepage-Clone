@@ -41,3 +41,48 @@ This project is a recreation of the Netflix homepage, intended for educational p
 - 🖱️ Interactive Elements: Includes hover effects, sliders, and animations.
 - 🎬 Netflix-like UI: Mimics the original platform's intuitive layout.
 - 🔧 Easy to Customize: Modular and clean code for easy updates and extensions.
+
+Here’s how the entire section, including **Project Structure**, **Screenshots**, and **License**, should be properly formatted in Markdown:
+
+```markdown
+## Project Structure
+
+```
+.
+├── index.html       # Main HTML file
+├── css/
+│   ├── style.css    # Main styles
+│   └── reset.css    # Optional CSS reset
+├── js/
+│   └── script.js    # JavaScript for interactivity
+├── assets/
+│   ├── images/      # Images used in the project
+│   └── fonts/       # Custom fonts (if any)
+└── README.md        # Project documentation
+```
+
+---
+
+## Screenshots
+
+| Desktop View                       | Mobile View                      |
+|------------------------------------|-----------------------------------|
+| ![Desktop Screenshot](#)          | ![Mobile Screenshot](#)          |
+
+> Replace the `#` with actual paths to screenshots if available.
+
+---
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+Feel free to use, modify, or contribute to improve this project!
+```
+
+### Explanation:
+1. **Code Blocks**: Used triple backticks (```) for the "Project Structure" section to display directory hierarchy as a block.
+2. **Screenshots Table**: Used the pipe (`|`) symbol to create a Markdown table for Desktop and Mobile views.
+3. **License**: Provided the standard Markdown header and text for clarity.
+
+This formatting is clean and works seamlessly for GitHub or any Markdown renderer. Let me know if you need additional sections!

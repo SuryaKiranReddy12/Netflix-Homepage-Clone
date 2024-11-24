@@ -36,8 +36,8 @@ This project is a recreation of the Netflix homepage, intended for educational p
 3. Open index.html in your browser to view the homepage:
    ```bash
    open index.html
-Features
--🎨 Responsive Design: Adapts seamlessly to devices of all sizes.
+## Features
+-🎨 Responsive Design: Adapts seamlessly to devices of all sizes.**
 -🖱️ Interactive Elements: Includes hover effects, sliders, and animations.
 -🎬 Netflix-like UI: Mimics the original platform's intuitive layout.
 -🔧 Easy to Customize: Modular and clean code for easy updates and extensions.

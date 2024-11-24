@@ -44,7 +44,6 @@ This project is a recreation of the Netflix homepage, intended for educational p
 
 Here’s how the entire section, including **Project Structure**, **Screenshots**, and **License**, should be properly formatted in Markdown:
 
-```markdown
 ## Project Structure
 
 ```
@@ -63,22 +62,11 @@ Here’s how the entire section, including **Project Structure**, **Screenshots*
 
 ---
 
-## Screenshots
-
-| Desktop View                       | Mobile View                      |
-|------------------------------------|-----------------------------------|
-| ![Desktop Screenshot](#)          | ![Mobile Screenshot](#)          |
-
-> Replace the `#` with actual paths to screenshots if available.
-
----
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 Feel free to use, modify, or contribute to improve this project!
-```
 
 ### Explanation:
 1. **Code Blocks**: Used triple backticks (```) for the "Project Structure" section to display directory hierarchy as a block.
